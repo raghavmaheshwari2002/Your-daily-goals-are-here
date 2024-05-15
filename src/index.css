@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.cstm1{
+    /* background: black; */
+    /* justify-content: space-around; */
+justify-content: center;
+align-items: center;
+    display: flex;
+}
+
+.cstm2{
+    background: rgb(33,33,33);
+    /* justify-content: space-around; */
+    /* display: flex; */
+    /* align-items: center;
+    justify-items: center;
+    justify-content: center; */
+    min-width: 450px;
+    max-width: 450px;
+    border-radius: 10px;
+}
+
+.cstm3{
+    display: flex;
+    /* margin-left: auto; */
+    background: #016dd3;
+    border-radius: 10px;
+}
+
